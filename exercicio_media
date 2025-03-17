@@ -1,0 +1,6 @@
+var primeiranota = Number(prompt("Digite a primeira nota"));
+var segundanota = Number( prompt("Digite a segunda nota"));
+var terceiranota = Number(prompt("Digite a terceira nota"));
+
+alert("Sua media e:");
+alert((primeiranota+segundanota+terceiranota)/3);
